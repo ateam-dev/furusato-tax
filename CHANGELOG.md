@@ -1,7 +1,8 @@
 # Change Log
 
-## Unreleased
-- null
+## 1.2.1 / 2020-11-06
+- Fix README.md
+- Add release workflow
 
 ## 1.2.0 / 2019-11-07
 - Export easy simulator.
