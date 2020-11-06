@@ -1,6 +1,6 @@
 {
   "name": "furusato-tax",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "ふるさと納税の限度額シミュレーション",
   "main": "dist/index.js",
   "engines": {
