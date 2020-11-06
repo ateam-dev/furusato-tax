@@ -7,10 +7,10 @@
 `npm`または`yarn`を用いてインストールできます。
 ```bash
 // with npm
-$ npm install ateam-dev/furusato-tax.git
+$ npm install furusato-tax
 
 // with yarn
-$ yarn add ateam-dev/furusato-tax.git
+$ yarn add furusato-tax
 ```
 
 ## 利用方法
